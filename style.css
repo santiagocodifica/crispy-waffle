@@ -5,6 +5,8 @@
 #canvas{
     display: inline;
     background-color: transparent;
+    margin-left:-7px;
+    margin-right:-5px;
 }
 
 h1{
