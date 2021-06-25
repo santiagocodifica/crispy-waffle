@@ -16,6 +16,7 @@ var acc = 0;
 
 
 function drawRect(){
+    ctx.fillStyle("blue");
     ctx.beginPath();
     ctx.moveTo(x1+move,y1+move2);
     ctx.lineTo(x2+move2,y2+move);
